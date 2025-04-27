@@ -49,7 +49,7 @@
 
 ### 🔧 Tools & Platforms:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,vercel" alt="Tools & Platforms" />
 </p>
 
 ---

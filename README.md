@@ -2,7 +2,7 @@
 <h3 align="center">Java Dev | Competitive Programmer | Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Versatile+Developer+%7C+Team+Lead+%7C+Tech+Explorer;React+%7C+Tailwind+%7C+Java+%7C+Go+%7C+Flutter;Problem+Solver+at+Heart+%E2%9D%A4;Always+Learning+Something+New+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Team+Lead+%7C+Tech+Explorer;React+%7C+Tailwind+%7C+Java+%7C+Go+%7C+Flutter;Problem+Solver+at+Heart+%E2%9D%A4;Always+Learning+Something+New+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
 ---

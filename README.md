@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on [**MonitorX**](https://github.com/aadicode69/screen-time-reducer) – an app to **reduce screen time** and boost productivity.
-- 🌱 Exploring **GoLang**, **Flutter**, and sharpening my **DSA skills**.
-- 💬 Ask me about **ReactJS**, **Tailwind CSS**, **Java**, or competitive programming.
+- 🔭 Currently working on [**gopwnit**](https://gopwnit.com) – a platform designed for **CTF-AS-A-Service & Security Learning Platform**.
+- 🌱 Exploring **Dart**, **Flutter**, and sharpening my **DSA skills**.
+- 💬 Ask me about **ReactJS**, **NodeJS**, **Java**, or competitive programming.
 - 🧠 Passionate about **AI**, **cybersecurity**, and building things that make life easier.
 - 📫 Reach out: **aadityagoyalofficial@gmail.com**
 
